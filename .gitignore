@@ -9,3 +9,4 @@ backend/venv/
 .env
 feedback_store.jsonl
 frontend_logs.jsonl
+frontend/node_modules/
