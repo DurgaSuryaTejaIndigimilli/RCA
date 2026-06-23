@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+node_modules/
+frontend/node_modules/
+backend/venv/
+*.egg-info/
+.env
+feedback_store.jsonl
+frontend_logs.jsonl
